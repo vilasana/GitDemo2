@@ -1,0 +1,81 @@
+2022-08-16 23:25:28,276 :DEBUG : test_addDetails :calling getData()
+2022-08-16 23:32:23,545 :DEBUG : test_addDetails :calling getData()
+2022-08-16 23:32:23,972 :DEBUG : getData :selecting emp status
+2022-08-16 23:32:24,026 :INFO : getData :Verifying using assert if employment status has been selected
+2022-08-16 23:32:24,027 :DEBUG : getData :assert statement evaluation
+2022-08-16 23:33:47,706 :DEBUG : test_addDetails :calling getData()
+2022-08-16 23:33:48,135 :DEBUG : getData :selecting emp status
+2022-08-16 23:33:48,185 :INFO : getData :Verifying using assert if employment status has been selected
+2022-08-16 23:33:48,185 :DEBUG : getData :assert statement evaluation
+2022-08-16 23:34:34,199 :DEBUG : test_addDetails :calling getData()
+2022-08-16 23:34:34,633 :DEBUG : getData :selecting emp status
+2022-08-16 23:34:34,697 :INFO : getData :Verifying using assert if employment status has been selected
+2022-08-16 23:34:34,697 :DEBUG : getData :assert statement evaluation
+2022-08-16 23:35:21,642 :DEBUG : test_addDetails :calling getData()
+2022-08-16 23:35:22,167 :DEBUG : getData :selecting emp status
+2022-08-16 23:35:22,232 :INFO : getData :Verifying using assert if employment status has been selected
+2022-08-16 23:35:22,232 :DEBUG : getData :assert statement evaluation
+2022-08-16 23:36:52,442 :DEBUG : test_addDetails :calling getData()
+2022-08-16 23:36:52,775 :DEBUG : getData :selecting emp status
+2022-08-16 23:36:52,824 :INFO : getData :Verifying using assert if employment status has been selected
+2022-08-16 23:36:52,824 :DEBUG : getData :assert statement evaluation
+2022-08-16 23:37:50,977 :DEBUG : test_addDetails :calling getData()
+2022-08-16 23:37:51,352 :DEBUG : getData :selecting emp status
+2022-08-16 23:37:51,404 :INFO : getData :Verifying using assert if employment status has been selected
+2022-08-16 23:37:51,404 :DEBUG : getData :assert statement evaluation
+2022-08-16 23:39:01,167 :DEBUG : test_addDetails :calling getData()
+2022-08-16 23:39:01,544 :DEBUG : getData :selecting emp status
+2022-08-16 23:39:01,607 :INFO : getData :Verifying using assert if employment status has been selected
+2022-08-16 23:39:01,607 :DEBUG : getData :assert statement evaluation
+2022-08-16 23:39:17,022 :DEBUG : test_addDetails :calling getData()
+2022-08-16 23:39:17,468 :DEBUG : getData :selecting emp status
+2022-08-16 23:39:17,511 :INFO : getData :Verifying using assert if employment status has been selected
+2022-08-16 23:39:17,511 :DEBUG : getData :assert statement evaluation
+2022-08-16 23:41:02,120 :DEBUG : test_addDetails :calling getData()
+2022-08-16 23:41:02,569 :DEBUG : getData :selecting emp status
+2022-08-16 23:41:02,634 :INFO : getData :Verifying using assert if employment status has been selected
+2022-08-16 23:41:02,635 :DEBUG : getData :assert statement evaluation
+2022-08-16 23:43:04,080 :DEBUG : test_addDetails :calling getData()
+2022-08-16 23:45:05,379 :DEBUG : test_addDetails :calling getData()
+2022-08-16 23:46:17,832 :DEBUG : test_addDetails :calling getData()
+2022-08-16 23:47:01,275 :DEBUG : test_addDetails :calling getData()
+2022-08-16 23:47:50,108 :DEBUG : test_addDetails :calling getData()
+2022-08-16 23:48:49,801 :DEBUG : test_addDetails :calling getData()
+2022-08-16 23:50:23,270 :DEBUG : test_addDetails :calling getData()
+2022-08-16 23:50:23,693 :DEBUG : getData :selecting emp status
+2022-08-16 23:50:23,755 :INFO : getData :Verifying using assert if employment status has been selected
+2022-08-16 23:50:23,755 :DEBUG : getData :assert statement evaluation
+2022-08-17 23:23:58,036 :DEBUG : test_addDetails :calling getData()
+2022-08-17 23:26:17,036 :DEBUG : test_addDetails :calling getData()
+2022-08-17 23:26:42,538 :DEBUG : test_addDetails :calling getData()
+2022-08-17 23:26:43,042 :DEBUG : getData :selecting emp status
+2022-08-17 23:26:43,084 :INFO : getData :Verifying using assert if employment status has been selected
+2022-08-17 23:26:43,084 :DEBUG : getData :assert statement evaluation
+2022-08-17 23:27:23,890 :DEBUG : test_addDetails :calling getData()
+2022-08-17 23:32:45,798 :DEBUG : test_addDetails :calling getData()
+2022-08-17 23:33:02,995 :DEBUG : test_addDetails :calling getData()
+2022-08-17 23:33:54,547 :DEBUG : test_addDetails :calling getData()
+2022-08-17 23:34:12,811 :DEBUG : test_addDetails :calling getData()
+2022-08-17 23:36:32,176 :DEBUG : test_addDetails :calling getData()
+2022-08-17 23:37:03,155 :DEBUG : test_addDetails :calling getData()
+2022-08-17 23:37:49,194 :DEBUG : test_addDetails :calling getData()
+2022-08-17 23:38:09,449 :DEBUG : test_addDetails :calling getData()
+2022-08-17 23:39:05,936 :DEBUG : test_addDetails :calling getData()
+2022-08-17 23:40:12,101 :DEBUG : test_addDetails :calling getData()
+2022-08-17 23:41:09,444 :DEBUG : test_addDetails :calling getData()
+2022-08-17 23:42:05,721 :DEBUG : test_addDetails :calling getData()
+2022-08-17 23:42:06,117 :DEBUG : getData :selecting emp status
+2022-08-17 23:42:06,165 :INFO : getData :Verifying using assert if employment status has been selected
+2022-08-17 23:42:06,166 :DEBUG : getData :assert statement evaluation
+2022-08-17 23:43:55,614 :DEBUG : test_addDetails :calling getData()
+2022-08-17 23:43:55,998 :DEBUG : getData :selecting emp status
+2022-08-17 23:43:56,052 :INFO : getData :Verifying using assert if employment status has been selected
+2022-08-17 23:43:56,052 :DEBUG : getData :assert statement evaluation
+2022-08-17 23:44:24,272 :DEBUG : test_addDetails :calling getData()
+2022-08-17 23:44:24,643 :DEBUG : getData :selecting emp status
+2022-08-17 23:44:24,687 :INFO : getData :Verifying using assert if employment status has been selected
+2022-08-17 23:44:24,687 :DEBUG : getData :assert statement evaluation
+2022-08-17 23:44:49,189 :DEBUG : test_addDetails :calling getData()
+2022-08-17 23:44:49,690 :DEBUG : getData :selecting emp status
+2022-08-17 23:44:49,741 :INFO : getData :Verifying using assert if employment status has been selected
+2022-08-17 23:44:49,741 :DEBUG : getData :assert statement evaluation
