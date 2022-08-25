@@ -17,8 +17,12 @@ class detailsclass(BaseClass):
     pw = (By.CSS_SELECTOR, "input[type*='password']")
     chkbx = (By.XPATH, "//input[@type='checkbox']")
     empstatus = (By.XPATH, "//input[@value='option3']")
+    dob = (By.XPATH, "//input[@type='date']")
+    submit = (By.CSS_SELECTOR, "input[type*='submit']")
+    alert = (By.XPATH, "//div[@class='alert alert-success alert-dismissible']")
 
 #we have globally declared getDataFromFixture but explicitly passing it as an argument since the fixture is returning values/data
+    @pytest.mark.xfail
     def getData(self, getFixtureData):
         logger = self.getLogger()
         name = self.driver.find_element(*detailsclass.name)
@@ -34,7 +38,14 @@ class detailsclass(BaseClass):
         empstatus.click()
         logger.info("Verifying using assert if employment status has been selected")
         logger.debug("assert statement evaluation")
+        dob = self.driver.find_element(*detailsclass.dob)
+        dob.send_keys("07-24-1995")
+        self.driver.find_element(*detailsclass.submit).click()
+        alertmsg = self.driver.find_element(*detailsclass.alert).text
+        assert alertmsg == "Success! The Form has been submitted successfully!."
         assert empstatus.is_selected()
+
+
 
 
 
